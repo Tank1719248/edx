@@ -94,7 +94,7 @@ DOMAIN_SEPARATOR=""
 MEMCACHE_SERVER=""
 
 # Azure Cli Version
-AZURE_CLI_VERSION="2"
+AZURE_CLI_VERSION="1"
 
 help()
 {
